@@ -16,7 +16,7 @@ public class MergePractice {
 		System.out.println("Hello World");
 		System.out.println("My name is moe");
 		
-		System.out.println("This is Antonella's addition to the file");
+		System.out.println("junk");
 	}
 
 }
